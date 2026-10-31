@@ -1,4 +1,4 @@
-cpp
+
 /*
   Line Follower Robot - by mkuuCodes | Eldoret, KE
   2x IR Sensors + L298N + Arduino Uno
